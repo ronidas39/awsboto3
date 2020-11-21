@@ -1,0 +1,10 @@
+Name,Type,Image,SG,Count,Iam,Key
+Host1-Tutorial37,t2.micro,ami-0b0f4c27376f8aa79,sg1,2,ssm-role-ec2,key1
+Host2-Tutorial37,t2.small,ami-03f4c416f489586a3,sg1,3,ssm-role-ec2,key2
+Host3-Tutorial37,t2.medium,ami-03d64741867e7bb94,samplesg,1,ssm-role-ec2,key3
+Host4-Tutorial37,t2.large,ami-03f4c416f489586a3,samplesg,1,ssm-role-ec2,key_sample
+Host1-Tutorial37,t2.micro,ami-0b0f4c27376f8aa79,sg1,2,ssm-role-ec2,key2
+Host2-Tutorial37,t2.small,ami-03f4c416f489586a3,sg1,2,ssm-role-ec2,key3
+Host3-Tutorial37,t2.medium,ami-03d64741867e7bb94,samplesg,2,ssm-role-ec2,key1
+Host4-Tutorial37,t2.large,ami-03f4c416f489586a3,samplesg,4,ssm-role-ec2,key_sample
+
